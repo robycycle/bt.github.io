@@ -1,0 +1,1513 @@
+WEBVTT
+
+0
+00:00:00.119 --> 00:00:02.559
+kanvada her ne kadar tasarımsal işlerimizi yapsak
+
+1
+00:00:02.559 --> 00:00:05.079
+da aslında bir kısımda video işlerini çözüyor.
+
+2
+00:00:05.199 --> 00:00:07.239
+Videolarda da epey güzel özellikleri var.
+
+3
+00:00:07.280 --> 00:00:08.479
+Bize pratiklik sağlıyor.
+
+4
+00:00:08.600 --> 00:00:11.359
+Bu videoda size kanvadaki video alanını göstereceğim.
+
+5
+00:00:11.479 --> 00:00:12.199
+Neler yapabiliriz?
+
+6
+00:00:12.239 --> 00:00:13.000
+Kullanışı nasıl?
+
+7
+00:00:13.079 --> 00:00:14.439
+Her şey bu videoda sizi bekliyor.
+
+8
+00:00:14.560 --> 00:00:15.560
+Şimdi gelin yavaştan.
+
+9
+00:00:15.734 --> 00:00:16.575
+videomuza geçelim.
+
+10
+00:00:16.655 --> 00:00:20.565
+Tabi geçmeden önce kanalımıza tam şu an abone olup videomuzda ben mi unutmayın.
+
+11
+00:00:20.614 --> 00:00:21.254
+Şimdi geçiyoruz.
+
+12
+00:00:21.334 --> 00:00:24.334
+Şimdi dediğim gibi aslında tasarım alanında çok fazla kullanan kişi
+
+13
+00:00:24.334 --> 00:00:27.334
+var ama video alanında da epey bir kullanıcısı var.
+
+14
+00:00:27.655 --> 00:00:31.215
+Video alanında da işlerinizi çözebilecek kolaylıkları bulunuyor.
+
+15
+00:00:31.840 --> 00:00:35.049
+kan ekranı ilk açtığımızda karşımızı böyle bir ekran karşılıyor.
+
+16
+00:00:35.080 --> 00:00:36.080
+Bunu da artık biliyorsunuz.
+
+17
+00:00:36.159 --> 00:00:38.840
+Geçtiğimiz videolarda daha detaylıca inceledik buraları
+
+18
+00:00:38.840 --> 00:00:40.759
+yukarıdaki kartları tıklayarak oraya gidebilirsiniz.
+
+19
+00:00:40.799 --> 00:00:41.560
+Ama şu an gitmeyin.
+
+20
+00:00:41.639 --> 00:00:42.479
+Şu an bu videodayız devam ediyoruz.
+
+21
+00:00:44.319 --> 00:00:45.819
+Karşımıza böyle bir alan çıktı.
+
+22
+00:00:45.959 --> 00:00:48.599
+Aşağılara geldikçe şuradan videoları seçtim.
+
+23
+00:00:48.639 --> 00:00:49.950
+Aşağılara geldikçe.
+
+24
+00:00:50.979 --> 00:00:53.099
+farklı farklı bana video şablonları gösteriyor.
+
+25
+00:00:53.180 --> 00:00:55.180
+Bunlardan birini seçip de yoluma devam edebilirim.
+
+26
+00:00:55.299 --> 00:00:58.490
+Ama ilk önce bir video arayüzüne bakalım neler var,
+
+27
+00:00:58.500 --> 00:00:59.860
+neler yok onları inceleyelim.
+
+28
+00:01:00.020 --> 00:01:01.419
+Sonrasında buraya zaten geleceğiz.
+
+29
+00:01:01.990 --> 00:01:05.930
+şimdi karşıma böyle bir çalışmaların çıkıyor.
+
+30
+00:01:06.459 --> 00:01:07.830
+Aslında tasarım alanındaki çalışma alanına çok benzer.
+
+31
+00:01:07.870 --> 00:01:10.790
+Sadece birazcık yatay Alta bir timeline alanımız var.
+
+32
+00:01:10.870 --> 00:01:12.389
+Buralara sayfa sayfa ekliyoruz.
+
+33
+00:01:12.830 --> 00:01:14.379
+sayfaların sürelerini uzatıyoruz.
+
+34
+00:01:14.709 --> 00:01:17.349
+Aslında buradaki sayfalar bizim tasarımımız her
+
+35
+00:01:17.349 --> 00:01:19.110
+sayfada bir tane tasarımımız olacak.
+
+36
+00:01:19.230 --> 00:01:23.029
+Bunları hareketlendireceğiz ve birbirine bağlayan birer video.
+
+37
+00:01:23.205 --> 00:01:23.845
+çıkartacağız.
+
+38
+00:01:24.165 --> 00:01:26.394
+Aslında arıyüz bu kadar basit.
+
+39
+00:01:26.764 --> 00:01:30.285
+Soldaki zaten menüler aynı tasarım alanında da vardı.
+
+40
+00:01:30.364 --> 00:01:30.995
+Bileşenler,
+
+41
+00:01:31.004 --> 00:01:31.605
+metinler,
+
+42
+00:01:31.875 --> 00:01:33.565
+v ekli şablon şablon çıkar.
+
+43
+00:01:33.885 --> 00:01:34.425
+Her türlü burada var.
+
+44
+00:01:35.635 --> 00:01:37.764
+Burada sadece tasarımların böyle
+
+45
+00:01:37.764 --> 00:01:40.565
+saniyelerini konumların konumlandırmalarını bölmelerini
+
+46
+00:01:40.565 --> 00:01:43.324
+yorumlarını vesaire gördüğümüz bir pencere var şimdi.
+
+47
+00:01:45.209 --> 00:01:47.089
+ilk önce şuradan gitmek istiyorum.
+
+48
+00:01:47.250 --> 00:01:48.650
+Herhangi bir tane tasarım atalım.
+
+49
+00:01:48.930 --> 00:01:51.089
+Tasarım üzerinden değişikliklere bakalım.
+
+50
+00:01:51.610 --> 00:01:53.610
+Ne gibi animasyonlar vereceğiz onlara geçelim.
+
+51
+00:01:54.209 --> 00:01:55.580
+Şimdi tasarım alanına geldim.
+
+52
+00:01:55.650 --> 00:01:59.430
+Tasarım alanına gelince şöyle daha önce kullanılan
+
+53
+00:02:00.480 --> 00:02:01.400
+videolar var.
+
+54
+00:02:02.199 --> 00:02:05.160
+Bu şekilde bunları alıp istediğimiz gibi kullanabiliyoruz.
+
+55
+00:02:05.319 --> 00:02:08.919
+Sadece buraya istediğimiz kategoriye yazmamız yeterli oluyor.
+
+56
+00:02:09.440 --> 00:02:10.639
+Örneğin buraya ne yazak?
+
+57
+00:02:12.050 --> 00:02:12.949
+düğün yazdım.
+
+58
+00:02:14.399 --> 00:02:16.080
+düğün yazınca karşıma neler çıkıyor?
+
+59
+00:02:16.119 --> 00:02:19.679
+Bakın bu şekilde farklı farklı şablonlar çıktı.
+
+60
+00:02:20.440 --> 00:02:22.589
+Düğün daveti hazırlayanlar vesaire.
+
+61
+00:02:22.910 --> 00:02:26.130
+Birçok şey çıktı arkadaşlar bunlardan birini seçip
+
+62
+00:02:26.710 --> 00:02:30.589
+içinde düzenlemeler vesaire yapabiliyorsunuz.
+
+63
+00:02:30.949 --> 00:02:32.949
+Şöyle birazcık daha genelden bakacağım neler var?
+
+64
+00:02:32.990 --> 00:02:33.979
+Aşağı doğru iniyorum.
+
+65
+00:02:34.270 --> 00:02:35.509
+Mesela şurada birj var.
+
+66
+00:02:35.789 --> 00:02:40.240
+Gelin isterseniz şu kolajı sayfamıza atalım neler varmış içinde bir görelim.
+
+67
+00:02:40.550 --> 00:02:42.320
+Şimdi gelin teker teker incelim.
+
+68
+00:02:42.350 --> 00:02:44.470
+Burada neler yapılmış aslında bir bakalım.
+
+69
+00:02:44.509 --> 00:02:48.550
+Örneğin şu görseli tıkladım görseli tıklayınca zaten timeline alan açılıyor.
+
+70
+00:02:49.149 --> 00:02:51.100
+Bunu böyle alıp istediğim gibi oynatabiliyorum.
+
+71
+00:02:51.779 --> 00:02:55.660
+ama oynatmadan önce şu üst taraftaki değişen özelliklere bakmak lazım.
+
+72
+00:02:55.899 --> 00:02:58.139
+Mesela Kür albümü diye bir şey geldi.
+
+73
+00:02:58.220 --> 00:03:01.630
+Burası aslında bu görsele verilen animasyon bölümü buraya
+
+74
+00:03:01.630 --> 00:03:05.779
+tıkladığınızda farklı farklı animasyonların olduğunu göreceksiniz bu şekilde.
+
+75
+00:03:06.869 --> 00:03:08.199
+tektonik kaymağı
+
+76
+00:03:09.270 --> 00:03:09.970
+düşmeye.
+
+77
+00:03:10.470 --> 00:03:12.869
+Hani bakın diğer görsellerden farklı gelmeye başladı.
+
+78
+00:03:12.910 --> 00:03:14.440
+Yukarıdan aşağı geliyor vesaire.
+
+79
+00:03:14.789 --> 00:03:18.669
+Buraya basıp bu görselin gelişini değiştirebiliyorsunuz.
+
+80
+00:03:19.110 --> 00:03:20.429
+Mesela çizgi yaptım,
+
+81
+00:03:21.190 --> 00:03:23.309
+çizgi yapınca ikisinde de diye bir seçenek var.
+
+82
+00:03:23.350 --> 00:03:25.029
+Girişte ve çıkışta bu ne demek oluyor?
+
+83
+00:03:25.350 --> 00:03:28.500
+Şuradaki ekranın girişinde hem de çıkışında bu animasyon olsun.
+
+84
+00:03:28.710 --> 00:03:31.460
+Yani öyle gelsin öyle gitsin demek oluyor,
+
+85
+00:03:31.470 --> 00:03:32.270
+ikisinde demek.
+
+86
+00:03:32.630 --> 00:03:34.229
+Ama ben sadece girişte olsun diyorum.
+
+87
+00:03:34.309 --> 00:03:37.110
+Çıkışta bir animasyon yapmasına gerek yok diyorum ve girişte seçtim.
+
+88
+00:03:37.630 --> 00:03:39.070
+burada hızını ayarlayabiliyorsunuz.
+
+89
+00:03:39.389 --> 00:03:40.350
+Yavaş mı gelsin?
+
+90
+00:03:40.429 --> 00:03:41.399
+Çok mu hızlı gelsin?
+
+91
+00:03:41.470 --> 00:03:42.949
+Burada istediğiniz ayırı yapabiliyorsunuz.
+
+92
+00:03:43.309 --> 00:03:46.070
+Animasyonun yön yönünü değiştirebiliyorsunuz.
+
+93
+00:03:46.509 --> 00:03:49.750
+Sağ sol aşağıdan yukarı gelsin gibi.
+
+94
+00:03:49.990 --> 00:03:52.229
+Burada farklı farklı animasyon seçenekleri var.
+
+95
+00:03:52.309 --> 00:03:55.850
+Önerilen şeyler var istediğinizi alıp kullanabiliyorsunuz.
+
+96
+00:03:55.949 --> 00:03:57.270
+Örneğin ben bunu yaptım.
+
+97
+00:03:57.509 --> 00:04:01.529
+Artık bu tasarım bu ekran farklı bir animasyonla gelecek.
+
+98
+00:04:01.589 --> 00:04:03.589
+Şöyle şu şekilde görüyorsunuz mesela.
+
+99
+00:04:06.520 --> 00:04:08.039
+aslında sıra sıra böyle oynuyor.
+
+100
+00:04:08.279 --> 00:04:13.279
+Mesela şuna geldim Baki animasyonda tıklıyorum zaten direkt animasyona geçti.
+
+101
+00:04:13.360 --> 00:04:14.089
+Nefes yapıyorum.
+
+102
+00:04:15.479 --> 00:04:16.480
+Bu da böyle bulanık gelsin dedim.
+
+103
+00:04:16.519 --> 00:04:17.519
+Mesela bu farklı geliyor.
+
+104
+00:04:18.980 --> 00:04:21.000
+Bu farklı geliyor artık gibi gibi böyle oynamalar yapabiliyorsunuz.
+
+105
+00:04:22.000 --> 00:04:24.519
+Şöyle bir şey de yapabiliyorsunuz ya diyelim ki
+
+106
+00:04:24.519 --> 00:04:26.839
+bu video bu sayfamız bizim beş saniyey.
+
+107
+00:04:27.809 --> 00:04:28.670
+Hadi bunu uzattım.
+
+108
+00:04:30.200 --> 00:04:31.059
+Şöyle 6 saniye yaptım.
+
+109
+00:04:31.109 --> 00:04:32.709
+Otomatikman görseller de oynuyor.
+
+110
+00:04:33.029 --> 00:04:34.950
+Ben diyorum ki bu görsel 3.
+
+111
+00:04:35.829 --> 00:04:37.230
+saniyeden itibaren gelsin.
+
+112
+00:04:37.429 --> 00:04:38.549
+Onun için ne yapacaksınız?
+
+113
+00:04:38.989 --> 00:04:41.239
+Bu görsel seçilir zaten timeline da geliyor.
+
+114
+00:04:41.510 --> 00:04:44.790
+Şu köşesinden seçip bunu böyle 3 saniye doğru çekiyorsunuz.
+
+115
+00:04:46.649 --> 00:04:47.510
+Burası artık görselsiz oluyor.
+
+116
+00:04:47.549 --> 00:04:48.000
+Bakın 3.
+
+117
+00:04:48.309 --> 00:04:49.540
+saniyeden itibaren geliyor.
+
+118
+00:04:49.829 --> 00:04:51.230
+Aslında mantık çok basit.
+
+119
+00:04:51.510 --> 00:04:52.350
+Animasyonu var.
+
+120
+00:04:52.470 --> 00:04:54.410
+Bunu buraya ekle ve geç bitti gitti.
+
+121
+00:04:55.790 --> 00:04:57.070
+animasyon olayını çözürüz.
+
+122
+00:04:57.109 --> 00:04:59.510
+Yani tek tek buradaki şeyleri de göstermeye gerek yok.
+
+123
+00:04:59.549 --> 00:05:01.510
+Zaten üstüne tıklayıp animasyon diyorsunuz.
+
+124
+00:05:02.480 --> 00:05:03.390
+Değişiyor her şey.
+
+125
+00:05:03.670 --> 00:05:05.029
+Örneğin buradaki yazı nasıl gelmiş?
+
+126
+00:05:05.109 --> 00:05:09.790
+Patlama şeklinde gelmiş tıkladım yazıya nasıl gelsin aşağıdan
+
+127
+00:05:09.790 --> 00:05:12.829
+yukarı veya süzülme diye bir şey varmış.
+
+128
+00:05:14.420 --> 00:05:15.500
+Dilo diye bir şey var.
+
+129
+00:05:15.859 --> 00:05:16.820
+Tek tek böyle yazıyor.
+
+130
+00:05:16.859 --> 00:05:19.700
+Hadi bu da böyle olsun diyorum ve kapattım.
+
+131
+00:05:20.089 --> 00:05:21.540
+Şimdi gelin bir tane daha sayfa var.
+
+132
+00:05:21.619 --> 00:05:22.700
+Bu sayfaya da bir şey ekleyelim.
+
+133
+00:05:22.739 --> 00:05:24.260
+Şuradan yine tasarım alanına geldim.
+
+134
+00:05:24.739 --> 00:05:26.459
+Burada da örneğin şu ekran gelsin diyorum.
+
+135
+00:05:28.529 --> 00:05:29.779
+Bakın şimdi videom 6 saniye buradan itibaren
+
+136
+00:05:29.779 --> 00:05:30.579
+başlattım ve bakın diğer ekrana geçti.
+
+137
+00:05:33.309 --> 00:05:36.230
+Şimdi bu ekranlar arasında da bir animasyon verebiliyorsunuz.
+
+138
+00:05:36.350 --> 00:05:38.510
+Bunun içinde tam şuradaki alana gelin.
+
+139
+00:05:38.869 --> 00:05:40.309
+Şuradaki sayfa ekli kısım var ya.
+
+140
+00:05:41.799 --> 00:05:42.920
+şurada geçişekli diyor.
+
+141
+00:05:42.959 --> 00:05:44.309
+Geçişekli basıyorsunuz.
+
+142
+00:05:46.380 --> 00:05:48.359
+Buradan dağılma veya şöyle kayma şeklinde geçsin
+
+143
+00:05:48.359 --> 00:05:50.399
+çizgisel silme diye bir animasyon yapsın.
+
+144
+00:05:51.209 --> 00:05:52.480
+veya şöyle akış olsun
+
+145
+00:05:53.779 --> 00:05:55.239
+Bakın şöyle akışa bir daha bakalım.
+
+146
+00:05:55.260 --> 00:05:55.660
+Bakın.
+
+147
+00:05:56.739 --> 00:05:57.839
+eşleştiri ve taşı var.
+
+148
+00:05:57.880 --> 00:05:59.869
+Daha böyle soft bir şekilde geçiyor,
+
+149
+00:06:00.119 --> 00:06:02.230
+istediğiniz animasyon da bu şekilde verebiliyorsunuz.
+
+150
+00:06:02.239 --> 00:06:03.399
+Süresini uzatabiliyorsunuz.
+
+151
+00:06:04.940 --> 00:06:10.170
+şöyle izlediğiniz aslında bu şekilde 10 saniyelik bir video yapmış oluyorsunuz.
+
+152
+00:06:11.010 --> 00:06:13.359
+Tabi buradaki görsellerin yerine pardon çok sil.
+
+153
+00:06:16.029 --> 00:06:16.890
+şöyle geldim.
+
+154
+00:06:17.790 --> 00:06:20.540
+Tabi burada görsellerin yerine videolar da ekleyebiliyorsunuz.
+
+155
+00:06:20.549 --> 00:06:22.950
+Zaten burası çerçeve çerçeve mantığını biliyorsunuz.
+
+156
+00:06:23.149 --> 00:06:24.239
+Mask aslında.
+
+157
+00:06:24.500 --> 00:06:26.429
+Şimdi gelin buraya bir tane daha video ekleyelim.
+
+158
+00:06:26.869 --> 00:06:31.010
+Yani video içinde video gibi bir şey olsun.lere geldim
+
+159
+00:06:31.010 --> 00:06:34.220
+buradan mesela şöyle bir video var şunu seçtim.
+
+160
+00:06:35.029 --> 00:06:36.190
+bunu alıp şuraya ekliyorum.
+
+161
+00:06:36.230 --> 00:06:39.109
+Çok alakasız ama daha sonra bununla ilgili size bir şey göstereceğim.
+
+162
+00:06:39.660 --> 00:06:42.470
+Şimdi bakın artık oradan videom geliyor ve devam ediyor.
+
+163
+00:06:42.480 --> 00:06:47.510
+Bu şekilde bunu alıp yine istediğim şekilde böyle konumlandırabiliyorum.
+
+164
+00:06:50.079 --> 00:06:52.839
+Yani gayet basit bir mantı var arkadaşlar.
+
+165
+00:06:52.920 --> 00:06:54.920
+Yani böyle sürükle bırak yapa yapa
+
+166
+00:06:54.920 --> 00:06:57.679
+bir dakikalık 5 dakikalık videolar çıkartabiliyorsunuz.
+
+167
+00:06:58.200 --> 00:07:01.559
+Şimdi size bir diğer göstermem gereken şeyler ne olabilir?
+
+168
+00:07:01.720 --> 00:07:04.350
+Şimdi şunları şöyle siliyorum.
+
+169
+00:07:06.010 --> 00:07:07.010
+hepsini sildim.
+
+170
+00:07:07.089 --> 00:07:07.929
+Şunu kapatayım.
+
+171
+00:07:08.049 --> 00:07:08.329
+Sildim,
+
+172
+00:07:08.410 --> 00:07:08.730
+sildim,
+
+173
+00:07:08.809 --> 00:07:09.140
+sildim.
+
+174
+00:07:12.910 --> 00:07:13.950
+Şimdi hepsini sildim.
+
+175
+00:07:14.149 --> 00:07:16.309
+Sadece bu sayfamda şu video oynuyor.
+
+176
+00:07:16.350 --> 00:07:17.029
+varsayıyorum.
+
+177
+00:07:17.149 --> 00:07:19.029
+Bu video üzerinden size bir şeyler göstereceğim.
+
+178
+00:07:19.470 --> 00:07:20.589
+Şimdi buna tıklayınca.
+
+179
+00:07:21.220 --> 00:07:23.619
+burada arka plan kaldırma diye bir alan çıkıyor.
+
+180
+00:07:23.700 --> 00:07:25.260
+Bunu fotoğraflarda da yapabiliyorsunuz.
+
+181
+00:07:25.380 --> 00:07:27.290
+Fotoğraflarda bitik daha iyi sonuç veriyor.
+
+182
+00:07:27.660 --> 00:07:31.690
+Videolarda objemiz hareket ettiği için sürekli kesmek,
+
+183
+00:07:31.700 --> 00:07:34.820
+arka planı temizlemek zorunda kalıyor ve arka plan
+
+184
+00:07:34.820 --> 00:07:38.859
+çok dağınık olunca bazen kötü seçimler yapmış oluyor.
+
+185
+00:07:38.899 --> 00:07:42.339
+Mesela gelin bunu deneyelim tıkladım arka planı kaldırmak istiyorum.
+
+186
+00:07:42.700 --> 00:07:43.779
+Bastım ve kalktı.
+
+187
+00:07:44.220 --> 00:07:45.779
+Gelin izleyelim nasıl kaldırmış?
+
+188
+00:07:46.859 --> 00:07:48.679
+Bakın şuralarda hafif bozulmalar var.
+
+189
+00:07:48.920 --> 00:07:51.519
+Buradaki püf nokta şu fotoğrafınızın arkası ne
+
+190
+00:07:51.519 --> 00:07:53.720
+kadar temizse o kadar güzel temizleme yapar.
+
+191
+00:07:53.839 --> 00:07:57.269
+Çok kalabalık bir şey varsa öndeki objeyi seçmede zorlanıyor.
+
+192
+00:07:57.279 --> 00:08:01.079
+Arkalarına il ki böyle küçük küçük parçalar bırakıyor diyebilirim.
+
+193
+00:08:02.299 --> 00:08:03.790
+sonra bu işlemi geri aldım.
+
+194
+00:08:03.910 --> 00:08:07.380
+Şimdi bu geri aldığım birazcık daha bir şeyler göstermem lazım.
+
+195
+00:08:07.589 --> 00:08:08.899
+Şöyle köşeye çıktım.
+
+196
+00:08:09.470 --> 00:08:10.350
+Düzenli kısmı var.
+
+197
+00:08:10.390 --> 00:08:11.350
+Düzenle kısmına geldik.
+
+198
+00:08:11.429 --> 00:08:14.220
+Burada neler bekliyor bizi ayarlık penceresi var.
+
+199
+00:08:14.589 --> 00:08:18.100
+Burada görselimizin rengiyle renk tonlarıyla vesaire oynayabiliyoruz.
+
+200
+00:08:18.549 --> 00:08:19.309
+Parlaklık,
+
+201
+00:08:19.470 --> 00:08:20.269
+kontrast,
+
+202
+00:08:21.070 --> 00:08:24.269
+parlak noktalar gibi böyle birkaç ayar yapabiliyorsunuz.
+
+203
+00:08:24.350 --> 00:08:26.859
+Tamamen videonun içeriğine bağlı tabii ki bu.
+
+204
+00:08:27.309 --> 00:08:30.269
+Burada vinyet bir efekt verebiliyorsunuz vesaire sıfırla dedim.
+
+205
+00:08:30.850 --> 00:08:32.419
+Bu şu yönden iyi olabilir.
+
+206
+00:08:32.429 --> 00:08:38.590
+Eğer böyle arka arkaya farklı tonlarda vide videonuz varsa bunlara ortak
+
+207
+00:08:38.590 --> 00:08:41.950
+bir renk atayıp hepsini böyle tek bir videomş gibi gösterebilirsiniz.
+
+208
+00:08:42.030 --> 00:08:43.390
+Oldukça pratik olur sizin için.
+
+209
+00:08:43.750 --> 00:08:44.950
+O yönden burası önemli.
+
+210
+00:08:45.140 --> 00:08:47.909
+Videonza göre burayı kurcalamanızı tavsiye ediyorum.
+
+211
+00:08:49.260 --> 00:08:49.929
+geriye geldim.
+
+212
+00:08:50.460 --> 00:08:52.299
+Şimdi şurada parlak noktalar diye bir şey var.
+
+213
+00:08:52.340 --> 00:08:53.580
+Burası henüz beta.
+
+214
+00:08:53.700 --> 00:08:55.780
+Yani bu videoyu ne zaman izliyorsunuz bilmiyorum
+
+215
+00:08:55.780 --> 00:08:58.130
+ama yayınlandığı gün Beta da burası.
+
+216
+00:08:58.380 --> 00:09:03.260
+Bu şu şu anlama geliyor Instagram'da veya Youtube da böyle kısa video
+
+217
+00:09:03.260 --> 00:09:06.419
+izlediğinizde böyle akıcı bir video ya aralarında hiç böyle falan olmaz.
+
+218
+00:09:06.900 --> 00:09:07.679
+Kırkma falan kırkmalar olur.
+
+219
+00:09:09.020 --> 00:09:09.890
+Böyle akıcı bir video.
+
+220
+00:09:10.809 --> 00:09:12.049
+Bu da tam olarak o iş yarıyor.
+
+221
+00:09:12.090 --> 00:09:14.049
+Eğer diyelim el elinizde uzun bir video var,
+
+222
+00:09:14.570 --> 00:09:16.440
+bu videonun kötü taraflarını siliyor.
+
+223
+00:09:17.039 --> 00:09:20.570
+Yani dediğiniz alanları böyle durduğunuz alanları
+
+224
+00:09:20.570 --> 00:09:23.690
+siliyor ve videonun gerek kalanını birleştiriyor.
+
+225
+00:09:23.789 --> 00:09:25.729
+Size en iyi halini ortaya çıkartıyor.
+
+226
+00:09:26.049 --> 00:09:28.679
+Parlak noktalar dediğimiz özellikle bu iş yarıyor.
+
+227
+00:09:29.530 --> 00:09:32.969
+Aslında videonuzu o aslında videonuzu izlenebilecek
+
+228
+00:09:32.969 --> 00:09:34.609
+en iyi hale getiriyor diyebilirim.
+
+229
+00:09:36.210 --> 00:09:36.849
+devam ediyorum.
+
+230
+00:09:36.929 --> 00:09:37.650
+Filtreler var.
+
+231
+00:09:37.729 --> 00:09:38.809
+Filtrelere geldiniz.
+
+232
+00:09:38.929 --> 00:09:41.210
+Burada otomatik filtreler var.
+
+233
+00:09:42.409 --> 00:09:45.049
+Yine farklı farklı renk tonları olarak hazırlanmış.
+
+234
+00:09:46.890 --> 00:09:49.369
+tek tıkla bu şekilde kullanabiliyorsunuz.
+
+235
+00:09:49.570 --> 00:09:51.210
+Bence burası da epek kullanışlı.
+
+236
+00:09:51.530 --> 00:09:52.570
+Şimdi burayı da gördük.
+
+237
+00:09:52.690 --> 00:09:55.049
+Şimdi gelin farklı bir video açalım.
+
+238
+00:09:55.219 --> 00:09:57.849
+O videonun akışına bakalım neler yapılmış,
+
+239
+00:09:57.950 --> 00:09:58.969
+neler yapılmamış.
+
+240
+00:09:59.010 --> 00:10:00.809
+Oradaki bir akışı değerlendirelim.
+
+241
+00:10:00.929 --> 00:10:03.840
+Aslında bizim için önemli olan kısım da burası.
+
+242
+00:10:04.130 --> 00:10:05.570
+Buradaki video yorumlayacağız.
+
+243
+00:10:06.700 --> 00:10:10.989
+bir sonraki video oluşturma sürecinde size bu yollar gerçekten ilham olacak.
+
+244
+00:10:11.030 --> 00:10:12.330
+En azından işinizi kolaylaştıracak.
+
+245
+00:10:12.789 --> 00:10:13.630
+Bu böyle yapılmış.
+
+246
+00:10:13.710 --> 00:10:15.780
+Ben şunu şuradan şöyle yapayım diyeceksiniz.
+
+247
+00:10:15.789 --> 00:10:16.270
+Emin olun.
+
+248
+00:10:16.669 --> 00:10:17.739
+Şimdi gelin bir izleyelim.
+
+249
+00:10:17.750 --> 00:10:18.630
+Neler varmış başlattım.
+
+250
+00:10:21.599 --> 00:10:24.109
+Aslında bu bir bir mesaj aslında şablonu.
+
+251
+00:10:24.950 --> 00:10:26.400
+bir mesajlaşma ekranı yapmış.
+
+252
+00:10:26.469 --> 00:10:28.789
+Muhtemelen story da vesaire paylaşılacak.
+
+253
+00:10:29.309 --> 00:10:31.080
+Bu şekilde devam ediyor.
+
+254
+00:10:31.239 --> 00:10:32.150
+Ürünler falan var.
+
+255
+00:10:32.270 --> 00:10:33.789
+Yaklaşık 30 saniyelik bir video.
+
+256
+00:10:34.150 --> 00:10:36.299
+Şimdi gelin şu videonun katmanlarına bakalım.
+
+257
+00:10:37.140 --> 00:10:39.429
+4,9 tanelik bir video bu şekilde kaydırıyorum.
+
+258
+00:10:40.539 --> 00:10:42.309
+Bakın yazıda bir yazı yazma efekti var.
+
+259
+00:10:43.260 --> 00:10:45.419
+şöyle bakıyorsunuz ilk ekranda sadece bu var.
+
+260
+00:10:45.460 --> 00:10:46.219
+Başka hiçbir şey yok.
+
+261
+00:10:46.260 --> 00:10:47.020
+Gördüğünüz gibi.
+
+262
+00:10:47.969 --> 00:10:49.770
+bunu nasılandırım üstündeki yazıya tıkladım.
+
+263
+00:10:49.890 --> 00:10:51.880
+Bakın sadece D efekti vermiş falan filan.
+
+264
+00:10:53.250 --> 00:10:55.250
+Ama buradaki mesaj kutusuna bir şey vermemiş.
+
+265
+00:10:55.289 --> 00:10:57.729
+Ben belki şu mesaj kutusuna tıklayıp animasyon derim.
+
+266
+00:10:58.250 --> 00:11:00.969
+Bunu böyle aşağıdan yukarı bir şekilde geldiğini gösteririm.
+
+267
+00:11:01.890 --> 00:11:02.690
+Mesela şimdi izleyelim.
+
+268
+00:11:05.130 --> 00:11:08.049
+bakın şimdi belki bir tık daha iyi oldu diyebiliriz.
+
+269
+00:11:08.250 --> 00:11:10.849
+Yani düz durmaktansa böyle dinamik katmak iyi olur.
+
+270
+00:11:11.489 --> 00:11:12.409
+Daha sonra ilerliyorum.
+
+271
+00:11:12.489 --> 00:11:14.010
+Şurada bir sayfa geçiş efekti var.
+
+272
+00:11:14.450 --> 00:11:16.520
+Tıkladım ne vermiş eşleştir ve taşı.
+
+273
+00:11:17.659 --> 00:11:18.619
+az önce de söyledim.
+
+274
+00:11:18.659 --> 00:11:20.500
+Daha böyle akışkan bir geçiş sağlıyor.
+
+275
+00:11:20.539 --> 00:11:22.940
+Aslında bu da bir bütün halindeymiş gibi gösteriyor.
+
+276
+00:11:23.539 --> 00:11:24.299
+Devam ediyorum.
+
+277
+00:11:25.169 --> 00:11:27.489
+Bakın burada yavaştan fotoğraflar geliyor.
+
+278
+00:11:28.090 --> 00:11:28.789
+Şöyle açayım.
+
+279
+00:11:32.570 --> 00:11:33.409
+fotoğraflar geliyor.
+
+280
+00:11:33.450 --> 00:11:35.409
+Yine aynı şekilde yazıya bir animasyon verilmiş.
+
+281
+00:11:35.450 --> 00:11:37.890
+Bir fotoğraflara tek tek animasyonlar verilmiş.
+
+282
+00:11:39.739 --> 00:11:40.890
+Gördüğünüz gibi bu fotoğrafların hepsini
+
+283
+00:11:40.890 --> 00:11:43.130
+böyle seçip aynı animasyon verebilirsiniz.
+
+284
+00:11:43.210 --> 00:11:47.419
+Hatta gelin şöyle seçelim Önce bir arka plan şöyle pardon şöyle aldım.
+
+285
+00:11:49.450 --> 00:11:52.049
+Bakın dört katmanda zaten burada gözüktü şu an.
+
+286
+00:11:53.210 --> 00:11:54.210
+şuradan sağ diyor.
+
+287
+00:11:54.250 --> 00:11:56.090
+Mesela bunu böyle solma yapabilirsiniz.
+
+288
+00:11:56.169 --> 00:11:58.609
+Pıt pıt pıt hızlı bir şekilde solma efektiyle gelirler.
+
+289
+00:11:58.729 --> 00:11:59.580
+Mesela böyle yapalım.
+
+290
+00:12:00.820 --> 00:12:03.640
+hani ellemişken de değiştirelim bir şeyleri
+
+291
+00:12:03.640 --> 00:12:05.929
+şöyle kaydırdım yine mesaj kutusu geliyor.
+
+292
+00:12:05.940 --> 00:12:07.659
+Yine aynı mantık tıkladınız.
+
+293
+00:12:08.239 --> 00:12:09.270
+yukarı vermiş,
+
+294
+00:12:09.440 --> 00:12:10.669
+emojilerine vermiş.
+
+295
+00:12:10.679 --> 00:12:11.840
+Bunlara da yukarı vermiş.
+
+296
+00:12:12.159 --> 00:12:14.000
+Aynı animasyon hepsinin de geçerli.
+
+297
+00:12:14.320 --> 00:12:17.119
+Bu şekilde bir akış sağlanmış aslında siz de
+
+298
+00:12:17.119 --> 00:12:19.159
+böyle videoları şablonları yorumlayarak
+
+299
+00:12:19.159 --> 00:12:21.919
+kendi özgün videoları çıkartabilirsiniz.
+
+300
+00:12:22.200 --> 00:12:26.739
+Ama tabi bence böyle hazır şablonlar alıp işe yararları bulup
+
+301
+00:12:26.739 --> 00:12:31.520
+kendi içeriğinize göre uyarlamak daha fazla zaman kazandıracaktır size.
+
+302
+00:12:31.760 --> 00:12:34.469
+Yani ben ondan yanayım ya tek tek uğraşmaktan.
+
+303
+00:12:34.825 --> 00:12:35.455
+zaten hazırlarını yapanlar var.
+
+304
+00:12:37.114 --> 00:12:38.924
+Rini değiştir yazısını değiştirek değiştirip hazır bir şekilde paylaşıma.
+
+305
+00:12:47.695 --> 00:12:50.215
+Şimdi bir de yine kullanabileceğiniz bir yapay zeka.
+
+306
+00:12:50.515 --> 00:12:52.234
+Aslında bir yapay zeka çıktı.
+
+307
+00:12:56.325 --> 00:12:56.755
+Bu da aslında bir yapay zeka mantık prompt
+
+308
+00:12:56.755 --> 00:13:00.715
+yazarak bir görsel ürettiriyorsunuz kendinize örneğin ne yazalım?
+
+309
+00:13:03.169 --> 00:13:06.539
+gökyüzünde gökyüzü olmasın ya çöl arazide yarış
+
+310
+00:13:06.539 --> 00:13:08.500
+yapan arabalar kuş bakışı çekim lazım.
+
+311
+00:13:08.940 --> 00:13:11.900
+Buraya alternatif referans görsel ekleyebiliyorsunuz.
+
+312
+00:13:12.059 --> 00:13:16.169
+Bunun gibi yap diye bir aslında bir yöntem söylemiş oluyorsunuz.
+
+313
+00:13:17.099 --> 00:13:18.419
+Dle de burada smart alanı var.
+
+314
+00:13:19.020 --> 00:13:21.119
+Smart basınca burada sinematik mi olsun,
+
+315
+00:13:21.140 --> 00:13:23.859
+makro mu olsun gibi böyle farklı farklı seçenekleriniz oluyor.
+
+316
+00:13:24.179 --> 00:13:27.020
+Çıkaracak yani çıkarılacak görsel buna göre ayarlanıyor.
+
+317
+00:13:27.729 --> 00:13:29.469
+Burada en boy oranımız var.
+
+318
+00:13:30.710 --> 00:13:32.650
+Bana yine şöyle 16 9 seklini bir görsel oluştursun diyorum.
+
+319
+00:13:32.809 --> 00:13:33.349
+Bastım.
+
+320
+00:13:33.770 --> 00:13:35.809
+Bakın mesela gayet istediğim gibi bir şey çıkardı.
+
+321
+00:13:35.849 --> 00:13:38.679
+Ben daha çok böyle tepeden bir açı istemiştim ama olsun.
+
+322
+00:13:39.489 --> 00:13:40.539
+Bu da bayağı şöyle.
+
+323
+00:13:40.710 --> 00:13:42.510
+Bu da aslında gayet bir film kapağı gibi.
+
+324
+00:13:42.549 --> 00:13:44.190
+Şuraya bir hızlı ve öfkeli yazın.
+
+325
+00:13:44.619 --> 00:13:46.979
+Alın size 10 numara film kapağı arabalar falan yerleştirilmiş.
+
+326
+00:13:46.989 --> 00:13:48.190
+Bu şekilde bir çıktı var.
+
+327
+00:13:48.469 --> 00:13:51.030
+Hani bunları da alıp videoları da kullanabilirsiniz.
+
+328
+00:13:51.109 --> 00:13:53.119
+Eğer böyle slide tarzı bir şey yapacaksınız,
+
+329
+00:13:53.349 --> 00:13:54.630
+işinize yarayabilecek bir görsel.
+
+330
+00:13:54.715 --> 00:13:56.234
+varsa otomatik üretebiliyorsunuz.
+
+331
+00:13:57.044 --> 00:13:58.474
+Yani burayı da göstermek istedim.
+
+332
+00:13:58.875 --> 00:14:00.344
+Peki daha nasıl şablonlar var?
+
+333
+00:14:00.354 --> 00:14:01.275
+Gelin bir onlara bakalım.
+
+334
+00:14:01.395 --> 00:14:02.844
+Şimdi buradan video alanına geldim.
+
+335
+00:14:02.914 --> 00:14:04.715
+Videolarında bakın neler neler çıkıyor?
+
+336
+00:14:04.755 --> 00:14:05.104
+Bakın.
+
+337
+00:14:05.114 --> 00:14:07.614
+Yok yok yani istediğiniz alıp kullanabiliyorsunuz.
+
+338
+00:14:07.635 --> 00:14:12.794
+Bakın bu şekilde şu şekilde yani burada buraya sadece istediğiniz.
+
+339
+00:14:13.900 --> 00:14:17.210
+kategoriye yazmanız yeterli indirim mi indirim yazın.
+
+340
+00:14:17.219 --> 00:14:19.099
+Yukarıya indirimle ilgili bir şablon çıkıyor.
+
+341
+00:14:19.380 --> 00:14:20.419
+Ürününü değiştiriyorsunuz,
+
+342
+00:14:20.460 --> 00:14:21.500
+ismini değiştiriyorsunuz.
+
+343
+00:14:21.739 --> 00:14:24.260
+Hop Instagram da veya bir şey bir yerde paylaşıyorsunuz.
+
+344
+00:14:24.619 --> 00:14:27.380
+Bayağı pratik yani bakın mutlu yıllar videosu var.
+
+345
+00:14:28.450 --> 00:14:32.690
+Mesela özel gün kutların özel gün içerikleriniz olabilir.
+
+346
+00:14:33.049 --> 00:14:34.770
+Bakın burada farklı bir reklam içeriği var.
+
+347
+00:14:37.869 --> 00:14:39.349
+YouTube için abon butonu var.
+
+348
+00:14:39.469 --> 00:14:41.229
+Yayın başlıyor şeklinde bir uyarı var.
+
+349
+00:14:41.580 --> 00:14:45.580
+Yani kullanılan yerler var bunları okula geri dönüş başladığı şeklinde post.
+
+350
+00:14:46.630 --> 00:14:47.890
+aşağı iniyorsunuz buraya.
+
+351
+00:14:47.929 --> 00:14:49.210
+Yani indikçe iniyor.
+
+352
+00:14:49.250 --> 00:14:50.090
+Buraya mesela ne yazalım,
+
+353
+00:14:50.130 --> 00:14:50.770
+indirim yazalım.
+
+354
+00:14:53.429 --> 00:14:54.190
+indirim yazdım.
+
+355
+00:14:54.229 --> 00:14:55.349
+Bakın gayet güzel,
+
+356
+00:14:56.340 --> 00:14:57.349
+efektif paylaşımlar var.
+
+357
+00:14:57.869 --> 00:14:59.940
+Hani eğer e ticaretle vesaire uğraşıyorsunuz,
+
+358
+00:14:59.950 --> 00:15:00.590
+tıklıyorsunuz.
+
+359
+00:15:00.869 --> 00:15:02.059
+Hemen yazılarını değiştirin.
+
+360
+00:15:02.080 --> 00:15:02.869
+Ürünler değiştirin.
+
+361
+00:15:02.950 --> 00:15:04.549
+Hemen hızlı bir şekilde paylaşın ya bayağı şey var.
+
+362
+00:15:05.710 --> 00:15:07.349
+Burayı bayağı kurcalamanız gerekiyor.
+
+363
+00:15:07.630 --> 00:15:09.590
+Ben şöyle bir özetle göstermiş oldum.
+
+364
+00:15:09.669 --> 00:15:11.330
+Örneğin şöyle gayet güzel bir
+
+365
+00:15:11.969 --> 00:15:12.570
+alan var.
+
+366
+00:15:12.609 --> 00:15:14.650
+Yani video ihtiyacınız varsa kendi
+
+367
+00:15:14.650 --> 00:15:17.289
+çapınızda bu şekilde düzenlemeler yapabilirsiniz.
+
+368
+00:15:17.369 --> 00:15:20.219
+Hiç kimseye ihtiyaç duymadan gördüğünüz gibi çok basit
+
+369
+00:15:20.219 --> 00:15:23.169
+buraya buraya al şurayı değiştir yazıyı değiştir.
+
+370
+00:15:23.179 --> 00:15:25.330
+Hemen çıktı gibi bir yöntem var.
+
+371
+00:15:25.690 --> 00:15:26.690
+Video burada bitiriyorum.
+
+372
+00:15:27.479 --> 00:15:28.690
+Bir sonraki videomuzda görüşme.
+
+373
+00:15:28.794 --> 00:15:31.195
+üzere ekranda diğer kalma videolarımız da çıktı.
+
+374
+00:15:33.684 --> 00:15:34.335
+Bu arada onları da tıklayıp içinden
+
+375
+00:15:34.335 --> 00:15:36.895
+bir şeyler öğrenebilirsiniz tıklamanızı tavsiye ediyorum.
+
+376
+00:15:37.294 --> 00:15:41.054
+Bu arada kanalımızı unutmayın bildirimleri açın şuradan
+
+377
+00:15:41.054 --> 00:15:43.364
+da bir şeyler yaparsınız artık üzere şimdi.

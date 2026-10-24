@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Tema 2 — Dijital Ürün Tasarımı: Barış Mesajı Görevi</title>
+<style>
+  html, body { margin: 0; height: 100%; background: #fff; }
+  iframe { border: 0; width: 100%; height: 100%; display: block; }
+</style>
+<script>
+  // SCORM 1.2 için basit bir LMS taklidi (kayıt tutmaz, sadece paketin çalışmasını sağlar).
+  (function () {
+    var data = {
+      "cmi.core.student_id": "ogrenci",
+      "cmi.core.student_name": "Öğrenci",
+      "cmi.core.lesson_status": "not attempted",
+      "cmi.core.lesson_mode": "normal",
+      "cmi.core.credit": "credit",
+      "cmi.core.entry": "ab-initio",
+      "cmi.core.lesson_location": "",
+      "cmi.suspend_data": "",
+      "cmi.launch_data": ""
+    };
+    window.API = {
+      LMSInitialize: function () { return "true"; },
+      LMSFinish: function () { return "true"; },
+      LMSGetValue: function (k) { return data.hasOwnProperty(k) ? data[k] : ""; },
+      LMSSetValue: function (k, v) { data[k] = v; return "true"; },
+      LMSCommit: function () { return "true"; },
+      LMSGetLastError: function () { return "0"; },
+      LMSGetErrorString: function () { return ""; },
+      LMSGetDiagnostic: function () { return ""; }
+    };
+  })();
+</script>
+</head>
+<body>
+  <iframe src="scormdriver/indexAPI.html" allowfullscreen allow="fullscreen; autoplay"></iframe>
+</body>
+</html>

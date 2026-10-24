@@ -1,0 +1,123 @@
+<?xml version="1.0" ?>
+<manifest identifier="_LrWQgMSxMMdomgIiTpGfMparrXfANPyMd-EgbPD" version="1"
+  xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd
+                      http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <adlcp:location>metadata.xml</adlcp:location>
+  </metadata>
+  <organizations default="articulate_rise">
+      <organization identifier="articulate_rise">
+      <title>Tema 2 — Dijital Ürün Tasarımı: Barış Mesajı Görevi</title>
+      <item identifier="i1" identifierref="r1" isvisible="true">
+        <title>Tema 2 — Dijital Ürün Tasarımı: Barış Mesajı Görevi</title>
+        <adlcp:datafromlms>datafromlms</adlcp:datafromlms>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="r1" type="webcontent" adlcp:scormtype="sco" href="scormdriver/indexAPI.html">
+      <!-- SCORMDRIVER STUFF -->
+      <file href="scormdriver/indexAPI.html" />
+      <file href="scormdriver/preloadIntegrity.js" />
+      <file href="scormdriver/driverOptions.js" />
+      <file href="scormdriver/AICCComm.html" />
+      <file href="scormdriver/auto-scripts/AutoBookmark.js" />
+      <file href="scormdriver/auto-scripts/AutoCompleteSCO.js" />
+      <file href="scormdriver/auto-scripts/CourseExit.js" />
+      <file href="scormdriver/blank.html" />
+      <file href="scormdriver/goodbye.html" />
+      <file href="scormdriver/scormdriver.js" />
+      <file href="scormdriver/browsersniff.js" />
+
+      <!-- RUNTIME COMMON STUFF -->
+      <file href="scormcontent/index.html" />
+
+      
+        <file href="scormcontent/lib/lzwcompress.js"/>
+      
+
+      <!-- FRONTEND BUNDLE ASSETS -->
+      <file href="scormcontent/lib/rise/d931eb98.js" />
+<file href="scormcontent/lib/rise/2ebcbad0.css" />
+<file href="scormcontent/lib/rise/dcfeaadd.js" />
+<file href="scormcontent/lib/rise/52c6b7a5.css" />
+<file href="scormcontent/lib/rise/5344bc7b.js" />
+<file href="scormcontent/lib/rise/9aede266.ttf" />
+<file href="scormcontent/lib/rise/bff47411.woff" />
+<file href="scormcontent/lib/rise/794fe56d.js" />
+<file href="scormcontent/lib/rise/29cf6be0.js" />
+<file href="scormcontent/lib/rise/fe03ee9b.js" />
+<file href="scormcontent/lib/rise/76830a3e.js" />
+<file href="scormcontent/lib/rise/3125981b.js" />
+<file href="scormcontent/lib/rise/95951b07.js" />
+<file href="scormcontent/lib/rise/ccf7120d.js" />
+<file href="scormcontent/lib/rise/abc494d1.js" />
+<file href="scormcontent/lib/rise/64c13194.js" />
+<file href="scormcontent/lib/rise/8716f7be.js" />
+<file href="scormcontent/lib/rise/d4f1495e.js" />
+<file href="scormcontent/lib/rise/c3d18634.js" />
+<file href="scormcontent/lib/rise/578ab21f.js" />
+<file href="scormcontent/lib/rise/90f65467.js" />
+<file href="scormcontent/lib/rise/2d62667c.js" />
+<file href="scormcontent/lib/rise/5fee7209.js" />
+<file href="scormcontent/lib/rise/552d8c2b.js" />
+<file href="scormcontent/lib/rise/cc70d403.js" />
+<file href="scormcontent/lib/rise/26eb66fd.js" />
+<file href="scormcontent/lib/learn_dist/entry.js" />
+<file href="scormcontent/lib/learn_dist/9b1f8619.js" />
+<file href="scormcontent/lib/learn_dist/9377a5ca.css" />
+<file href="scormcontent/lib/learn_dist/c803cae9.js" />
+<file href="scormcontent/lib/mondrian/entry.js" />
+<file href="scormcontent/lib/mondrian/0aa943f0.js" />
+<file href="scormcontent/lib/mondrian/f7fe9448.js" />
+<file href="scormcontent/lib/mondrian/ea76a824.js" />
+<file href="scormcontent/lib/mondrian/3868877e.js" />
+<file href="scormcontent/lib/mondrian/5d56aa22.js" />
+<file href="scormcontent/lib/sandbox/sandbox.html" />
+<file href="scormcontent/lib/sandbox/c77685df.js" />
+<file href="scormcontent/lib/sandbox/4adfab46.css" />
+
+
+      <!-- RUNTIME CONTENT STUFF -->
+      <file href="scormcontent/lib/fonts/Lato2-Italic.woff" />
+<file href="scormcontent/lib/fonts/Lato2-Light.woff" />
+<file href="scormcontent/lib/fonts/Lato2-Regular.woff" />
+<file href="scormcontent/lib/fonts/Lato2-Black.woff" />
+<file href="scormcontent/lib/fonts/Lato2-Bold.woff" />
+<file href="scormcontent/lib/fonts/Merriweather-Light.woff" />
+<file href="scormcontent/lib/fonts/Merriweather-Regular.woff" />
+<file href="scormcontent/lib/fonts/Merriweather-Bold.woff" />
+<file href="scormcontent/lib/fonts/Merriweather-Italic.woff" />
+<file href="scormcontent/lib/fonts/Merriweather-Black.woff" />
+<file href="scormcontent/assets/small.png" />
+<file href="scormcontent/assets/1-RcQr7qTYdGHijR.jpg" />
+<file href="scormcontent/assets/stock-image.jpg" />
+<file href="scormcontent/assets/3xWQ1W/mountains.jpg" />
+<file href="scormcontent/assets/8a6384a8-1135-4ddc-a496-36.jpg" />
+<file href="scormcontent/assets/ai-altyaz%C4%B1.png" />
+<file href="scormcontent/assets/ai-sahnege%C3%A7i%C5%9F.jpg" />
+<file href="scormcontent/assets/ai-sestemizleme.png" />
+<file href="scormcontent/assets/ai-renkd%C3%BCzenleme.jpg" />
+<file href="scormcontent/assets/deepfake%20N%20hrfli.mp4" />
+<file href="scormcontent/assets/deepfake%20N%20hrfli.jpg" />
+<file href="scormcontent/assets/ai-captions-1779393586996.vtt" />
+<file href="scormcontent/assets/canvadavideod%C3%BCzenleme.mp4" />
+<file href="scormcontent/assets/canvadavideod%C3%BCzenleme.jpg" />
+<file href="scormcontent/assets/ai-captions-1779194308056.vtt" />
+<file href="scormcontent/assets/Ekran%20g%C3%B6r%C3%BCnt.jpg" />
+<file href="scormcontent/assets/Ekran%20g%C3%B6r%C3%BCnt.png" />
+<file href="scormcontent/assets/7_qA8b/Ekran%20g%C3%B6r%C3%BCnt.png" />
+<file href="scormcontent/assets/x9atDP/Ekran%20g%C3%B6r%C3%BCnt.jpg" />
+<file href="scormcontent/assets/j-_yMs/Ekran%20g%C3%B6r%C3%BCnt.png" />
+<file href="scormcontent/assets/c1z4WE/Ekran%20g%C3%B6r%C3%BCnt.png" />
+<file href="scormcontent/assets/u4p0OW/Ekran%20g%C3%B6r%C3%BCnt.png" />
+<file href="scormcontent/assets/KrDm-4/Ekran%20g%C3%B6r%C3%BCnt.jpg" />
+
+    </resource>
+  </resources>
+</manifest>
